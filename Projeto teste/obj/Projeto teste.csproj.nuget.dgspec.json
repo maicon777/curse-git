@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\Projeto teste\\Projeto teste\\Projeto teste.csproj": {}
+    "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\curse-git\\Projeto teste\\Projeto teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\Projeto teste\\Projeto teste\\Projeto teste.csproj": {
+    "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\curse-git\\Projeto teste\\Projeto teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\Projeto teste\\Projeto teste\\Projeto teste.csproj",
+        "projectUniqueName": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\curse-git\\Projeto teste\\Projeto teste.csproj",
         "projectName": "Projeto teste",
-        "projectPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\Projeto teste\\Projeto teste\\Projeto teste.csproj",
+        "projectPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\curse-git\\Projeto teste\\Projeto teste.csproj",
         "packagesPath": "C:\\Users\\maico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\Projeto teste\\Projeto teste\\obj\\",
+        "outputPath": "C:\\Users\\maico\\OneDrive\\Área de Trabalho\\curse-git\\Projeto teste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

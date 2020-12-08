@@ -11,3 +11,16 @@ C:\Users\maico\OneDrive\Área de Trabalho\Projeto teste\Projeto teste\obj\Debug\
 C:\Users\maico\OneDrive\Área de Trabalho\Projeto teste\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.dll
 C:\Users\maico\OneDrive\Área de Trabalho\Projeto teste\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.pdb
 C:\Users\maico\OneDrive\Área de Trabalho\Projeto teste\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.genruntimeconfig.cache
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.exe
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.deps.json
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.runtimeconfig.json
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.runtimeconfig.dev.json
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.dll
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\bin\Debug\netcoreapp3.1\Projeto teste.pdb
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.csprojAssemblyReference.cache
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.AssemblyInfoInputs.cache
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.AssemblyInfo.cs
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.csproj.CoreCompileInputs.cache
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.dll
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.pdb
+C:\Users\maico\OneDrive\Área de Trabalho\curse-git\Projeto teste\obj\Debug\netcoreapp3.1\Projeto teste.genruntimeconfig.cache
